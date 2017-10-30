@@ -15,12 +15,12 @@
     "slack",
     "slash command"
   ],
-  "author": "D.E. Goodman-Wilson",
-  "license": "MIT",
+  "author": "danaviam@",
+  "license": "GNU",
   "bugs": {
     "url": "https://github.com/dandan6/foodme/issues"
   },
-  "homepage": "hhttps://github.com/dandan6/foodme#readme",
+  "homepage": "",
   "engines": {
     "node": "5.1.1"
   },
